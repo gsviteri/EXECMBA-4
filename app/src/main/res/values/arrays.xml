@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tempo">
+        <item>Cinco minutos</item>
+        <item>Quinze minutos</item>
+        <item>Trinta minutos</item>
+        <item>Uma hora</item>
+        <item>Tres Horas</item>
+        <item>Seis Horas</item>
+        <item>Nove Horas</item>
+    </array>
+</resources>

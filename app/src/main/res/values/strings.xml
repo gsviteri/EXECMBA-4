@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DemoPedingIntent</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_beber_agua">BeberAguaActivity</string>
+    <string name="label_minha_activity">MInha Activity</string>
+    <string name="label_beber_agua">Hora de beber água</string>
+    <string name="label_tempo">Tempo</string>
+    <string name="label_iniciar">Iniciar</string>
+    <string name="label_parar">Parar</string>
+    <string name="btn_ocultar">Ocultar</string>
+</resources>
